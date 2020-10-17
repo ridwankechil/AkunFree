@@ -5,7 +5,7 @@ echo $cyan "Subscribe Dulu Ya"
 echo "tunggu sebentar "
 sleep 1
 echo "membuka YouTube"
-sleep 10
+sleep 2
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
