@@ -21,10 +21,10 @@ or='\033[1;38;5;208m' #Orange
  echo $pu "Menjadi 150 subscriber " $or "jika bisa Tolong jadiin 500 subscriber"
  echo $me "dan sy usahakan" $or "untuk bagi bagi lebih banyak lagi dari ini"
  sleep 2
- termux-open 
+
 echo $or "
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-                 🔴 Jangan Lupa Tersenyum🔴
+   🔴 Jangan Lupa Tersenyum🔴
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
   
 ═══════════════════════════════════════
