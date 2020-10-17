@@ -7,6 +7,7 @@ sleep 1
 echo "membuka YouTube"
 sleep 2
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
+echo "tunggu 10 detik"
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -15,10 +16,15 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
- echo $ku "Dukung Channel Gw sampai 1000 Subscriber ya"
+sleep 30
+ echo $ku "Dukung Channel Gw sampai 1000 Subscriberya"
+sleep 2
  echo $me "follow Instagram gw biar dapat pemberitahuan jika Bagi² Akun Lagi"
- echo $pu "Untuk Semuanya> Terimakasih sudah mendukung sy"
+sleep 2
+ echo $pu "Untuk Semuanya>Terimakasih sudah mendukung sy"
+sleep 1
  echo $pu "Menjadi 150 subscriber " $or "jika bisa Tolong jadiin 500 subscriber"
+sleep 2
  echo $me "dan sy usahakan" $or "untuk bagi bagi lebih banyak lagi dari ini"
  sleep 2
 
