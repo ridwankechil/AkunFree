@@ -22,17 +22,15 @@ echo $bi "Semoga beruntung"
 echo $pu "subscribe dulu"
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 sleep 2
-echo "Uda Subscribe Belum"
-read pill;
-echo $pill "anda berbohong " 
-echo $me "Subscribe dulu lalu bilang sudah"
-echo $pu "Kalo Gak Subs Gak Akan Berjalan" 
+echo "terimakasih sudah subscribe"
+echo $pu "Semoga Anda Mendapatkan Akun Yang Anda Cari Cari"
+echo $me "Selamat Mechoba"
+echo $pu "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" 
 echo $bi "gw gak maksa sanati nanty unsubs gpp"
-echo "santai aja " $nick
-echo " Kalo Uda subs Klik ok"
-echo p;
+echo "santai aja "
+echo $pu "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 clear
-echo "ini akunya makasih sudah Subscribe"
+echo " makasih sudah Subscribe"
 sleep 2
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "Ini bukan akun hasil phising atau akun hasik hack
