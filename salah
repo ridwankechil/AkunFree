@@ -30,13 +30,13 @@ echo $bi "gw gak maksa sanati nanty unsubs gpp"
 echo "santai aja "
 echo $pu "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 clear
-echo " makasih sudah Subscribe"
+echo $bi " makasih sudah Subscribe"
 sleep 2
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo "Ini bukan akun hasil phising atau akun hasik hack
+echo $cy "Ini bukan akun hasil phising atau akun hasik hack
 Ini Adalah Akun Hasil Beli Jadi Jangan Takut Untuk
 mengambilnya " 
-"beli langsung ke pemilik soalharga ga penting"
+echo $me "beli langsung ke pemilik soalharga ga penting"
 sleep 6
 echo $bi "
 ====[ FACEBOOK ACCOUNT ]====
