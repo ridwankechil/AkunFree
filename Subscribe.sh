@@ -26,7 +26,7 @@ sleep 2
 sleep 2
  echo $pu "Untuk Semuanya>Terimakasih sudah mendukung sy"
 sleep 1
- echo $pu "Menjadi 150 subscriber " $or "jika bisa Tolong jadiin 500 subscriber"
+ echo $pu "Menjadi 150 subscriber " $or "jika bisa Tolong jadiin 250 subscriber"
 sleep 2
  echo $me "dan sy usahakan" $or "untuk bagi bagi lebih banyak lagi dari ini"
  sleep 2
